@@ -19,6 +19,7 @@
 </p>
 
 ## How the Game Works:
+* Each Red block is a Live Cell and the White Block are Dead cells.
 * Initially through a random seed, the first generation of cells will be created.
 * You can keep clicking on the "Progress" button to progress the generation further.
 * You can also click anywhere on the grid to add new cells.
