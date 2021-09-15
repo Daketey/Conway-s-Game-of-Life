@@ -17,7 +17,7 @@ This Repository serves as an implementation for the Game of Life problem.
  ```
  
  <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/66672417/133478053-1a6551be-43da-412d-94dc-dc80434562cc.PNG">
+  <img width="800" src="https://user-images.githubusercontent.com/66672417/133481324-28c25f5b-1c47-4802-8e1a-0fb87f26fd14.PNG">
 </p>
 
 ## How the Game Works:
