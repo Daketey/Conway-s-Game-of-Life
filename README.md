@@ -27,6 +27,6 @@
   > Any live cell with two or three live neighbors lives on to the next generation. \
   > Any live cell with more than three live neighbors dies, as if by overpopulation. \
   > Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction. 
- * There is also an index associated with each cell, you can display them by clicking on Display Name.
+ * There is also an index associated with each cell, you can display them by clicking on "Display Name".
  * Typing any index in the Search Bar will highlight that cell in the grid.
 
