@@ -20,7 +20,7 @@
 
 ## How the Game Works:
 * Initially through a random seed, the first generation of cells will be created.
-* You can keep clicking on ~progress~ to progress the generation further.
+* You can keep clicking on #Progress# to progress the generation further.
 * You can also click anywhere on the grid to add new cells.
 * Adding new cells will then move the generation forward, the cells will evolve on the basis of following rules:
   > Any live cell with fewer than two live neighbors dies, as if caused by under population. \
