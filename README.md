@@ -1,6 +1,6 @@
 # Implementation of Conway's Game of Life
 
-### Steps for Setting up the App:
+## Steps for Setting up the App:
 * Clone the Repository to your Local Machine.
 * Navigate to the cloned folder through the Terminal.
 * Make Sure you have [Node.js](https://nodejs.org/en/download/current/) installed.
@@ -30,4 +30,5 @@
   > Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction. 
  * There is also an index associated with each cell, you can display them by clicking on "Display Name".
  * Typing any index in the Search Bar will highlight that cell in the grid.
+
 
