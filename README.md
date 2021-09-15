@@ -1,12 +1,14 @@
 # Implementation of Conway's Game of Life
 
 ### Steps for Setting up the App:
-* Clone the Repository to your Local Machine
-* Run the Following Command:
+* Clone the Repository to your Local Machine.
+* Navigate to the cloned folder through the Terminal.
+* Make Sure you have Node.js installed.
+* Run the Following Command Through the Terminal:
  ```bash
  npm install 
  ```
- * Once its finished simply do:
+ * Once its finished simply execute the following line in the Terminal:
  
   ```bash
  npm start 
