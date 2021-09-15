@@ -1,5 +1,7 @@
 # Implementation of Conway's Game of Life
 
+This Repository serves as an implementation for the Game of Life problem.
+
 ## Steps for Setting up the App:
 * Clone the Repository to your Local Machine.
 * Navigate to the cloned folder through the Terminal.
