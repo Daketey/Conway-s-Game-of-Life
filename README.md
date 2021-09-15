@@ -2,5 +2,5 @@
 
 ### Steps for Setting up the App
 ```bash
-pip install foobar
+npm install 
 ```
