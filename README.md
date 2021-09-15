@@ -2,6 +2,9 @@
 
 ### Steps for Setting up the App:
 * Clone the Repository to your Local Machine
-```bash
-npm install 
-```
+* Run the Following Command:
+ ```bash
+ npm install 
+ ```
+ *chec
+
