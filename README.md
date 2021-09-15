@@ -6,5 +6,9 @@
  ```bash
  npm install 
  ```
- *chec
+ * Once its finished simply do:
+ 
+  ```bash
+ npm start 
+ ```
 
